@@ -1,5 +1,5 @@
 ### Hi there, I'm Minura Anuradha! 👋
-I am an SE Undergraduate 💻
+I am a SE Undergraduate 💻
 
 
 🌱 I’m currently learning learning Programming    
