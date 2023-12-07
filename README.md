@@ -2,7 +2,7 @@
 I am a SE Undergraduate 💻
 
 
-🌱 I’m currently learning learning Programming    
+🌱 I’m currently learning Programming    
 <!--
 **minuraanuradha/minuraanuradha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
