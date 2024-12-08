@@ -113,15 +113,15 @@
 
 ---
 
-<!--<h2 align="center">☕ Support Me</h2>
+<h2 align="center">☕ Support Me</h2>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/minuraanuradha">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" width="210" alt="Buy Me A Coffee">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="Buy Me A Coffee">
   </a>
 </p>
 
------>
+---
 
 <h2 align="center">🙏 Thank You!</h2>
 
