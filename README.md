@@ -127,9 +127,9 @@
 
 <p align="center">
   Thank you for visiting my profile! If you have any questions or just want to connect, feel free to reach out. I'm always open to new opportunities and collaborations!
-</p>
+</p> <!--
 <p align="center">
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=minuraanuradha&label=Profile%20Views&color=3&icon=5&pretty=true" />
-</a>
-</p>
+</a> 
+</p> -->
